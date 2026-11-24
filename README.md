@@ -1,2 +1,2 @@
 # poliklinikaga-navbat-olish
-Bu loyiha poliklinikaga navbat ochish
+Bu loyiha poliklinikaga navbat olish
